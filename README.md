@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Pablo,
 
-<!--
-**PablomSanchezv/PablomSanchezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cyber Operations student at the University of Arizona with an interest in cybersecurity, systems programming, networking, and reverse engineering.
 
-Here are some ideas to get you started:
+## Cybersecurity Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cyber Operations
+- Network Security
+- Reverse Engineering
+- Vulnerability Analysis
+- Security Automation
+- Linux
+- Systems Programming
+
+## Technical Skills
+
+**Languages**
+- Python
+- C
+- x86-64 Assembly
+- Bash
+
+**Technologies**
+- Linux
+- Git
+- GDB
+- Wireshark
+- Networking
+- GitHub
+
+## Projects
+
+My GitHub contains projects involving:
+
+- Python security automation
+- C/Linux systems programming
+- Assembly and low-level programming
+- Networking
+- Cybersecurity labs and research
+
+## Education
+
+**University of Arizona**  
+Cyber Operations
+
+---
+
+Feel free to explore my repositories below.
