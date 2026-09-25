@@ -26,7 +26,6 @@ I'm a Cyber Operations student at the University of Arizona with an interest in 
 - GDB
 - Wireshark
 - Networking
-- GitHub
 
 ## Projects
 
